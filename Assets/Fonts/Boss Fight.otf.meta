@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: abc3326795994984cb6ab90161001c64
+timeCreated: 1506621350
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boss Fight
+  fontNames:
+  - Boss Fight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
